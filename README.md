@@ -3,7 +3,7 @@ This project is a **Diabetes Prediction Web Application** built using a Machine 
 
 The solution consists of:
 - A **Jupyter Notebook** for data exploration, model training & evaluation.
--[App screenshot](https://github.com/Omolosho001/diabetes/blob/main/Screenshot%202025-06-24%20131917.jpg)
+-![App screenshot](https://github.com/Omolosho001/diabetes/blob/main/Screenshot%202025-06-24%20131917.jpg)
 - A **Streamlit** app for a user-friendly interface to make predictions.
 - 
 - ![App Screenshot](https://github.com/Omolosho001/diabetes/blob/main/predic.jpg)
