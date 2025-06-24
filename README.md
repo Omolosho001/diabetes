@@ -7,6 +7,7 @@ The solution consists of:
 - A **Streamlit** app for a user-friendly interface to make predictions.
 - 
 - ![App Screenshot](https://github.com/Omolosho001/diabetes/blob/main/predic.jpg)
+- 
 - ## Key Features
 - Loads a pre-trained Diabetes model and scaler.
 - Scales user inputs and provides real-time diabetes risk predictions.
